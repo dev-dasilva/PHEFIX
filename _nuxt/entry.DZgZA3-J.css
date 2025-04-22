@@ -30,7 +30,7 @@
 
 .nuxt-icon--fill,
 .nuxt-icon--fill * {
-    fill: currentColor
+     fill: currentColor 
 }
 
 .icon[data-v-9c8a4edd] svg {
